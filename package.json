@@ -1,0 +1,24 @@
+{
+  "name": "dpg",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WindomZ/dpg.git"
+  },
+  "keywords": [
+    "domain",
+    "password",
+    "generator"
+  ],
+  "author": "WindomZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WindomZ/dpg/issues"
+  },
+  "homepage": "https://github.com/WindomZ/dpg#readme"
+}
